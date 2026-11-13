@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Kloud Kart data strategy engagement: submission
 
 | File | Deliverable |
@@ -11,6 +11,4 @@
 | `improvement.md` | 6. Improvement beyond the brief, with the built register included |
 
 Canva Presentation Link: https://canva.link/n6osa0cukkn9plu 
-=======
-# DE01-Kloud-Kart-Data-Strategy-Engagement
->>>>>>> eb1834fa6453b10215e17d03ce627e40d7caf2f0
+
